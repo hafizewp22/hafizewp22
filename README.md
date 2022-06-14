@@ -13,7 +13,7 @@ Student of the Department of Computer Science at Bina Nusantara University with 
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.figma.com/@hafizewp">
-  <img src="https://img.shields.io/badge/figma-%FF000D.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%2312100E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="[https://www.figma.com/@hafizewp](https://www.hackerrank.com/hafizewp)">
     <img src="https://img.shields.io/badge/hackerrank-%54A657.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
