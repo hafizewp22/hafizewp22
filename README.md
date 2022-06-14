@@ -15,6 +15,9 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 <a href="https://www.figma.com/@hafizewp">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="[https://www.figma.com/@hafizewp](https://www.hackerrank.com/hafizewp)">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="mailto:hafizelfiawedoputra@outlook.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
