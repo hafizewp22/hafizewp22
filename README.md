@@ -1,4 +1,4 @@
-<h2> Hi, Hafiz Elfia Wedo Putra!</h2> 
+<h2> Hi, Hafiz E Wedo Putra!</h2> 
 
 Student of the Department of Computer Science at Bina Nusantara University with competence in Streaming Database Technology. Interested in technology, and organization. I am also a hard worker, have integrity, responsibility, and work in a team. Really like to learn coding like Web Developer, Mobile Programming, Database and Data Analysis. 
 
