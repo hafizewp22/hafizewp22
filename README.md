@@ -5,28 +5,30 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 ## ⚡Technologies
 - Operating System: 
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6)]()
-- Web Development:
+[![Mac](https://img.shields.io/badge/MacOS-black?style=flat&logo=windows&logoColor=0078D6)]()
+- Web Development (Front End):
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=%23E34F26)](https://github.com/hafizewp22?tab=repositories&language=html)
-[![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=%231572B6)](https://github.com/hafizewp22?tab=repositories&language=css)
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3&logoColor=%231572B6)](https://github.com/hafizewp22?tab=repositories&language=css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/hafizewp22?tab=repositories&language=javascript)
+[![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat&logo=jQuer)](https://github.com/hafizewp22?tab=repositories&language=jQuer)
 [![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/hafizewp22?tab=repositories&language=javascript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/hafizewp22?tab=repositories&language=javascript)
-[![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=%237F5AB6)](https://github.com/hafizewp22?tab=repositories)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)](https://github.com/hafizewp22?tab=repositories&language=javascript)
-- Desktop Application:
-[![.Net](https://img.shields.io/badge/.NET-black?style=flat&logo=.net&logoColor=5C2D91)](https://github.com/hafizewp22?tab=repositories&language=c%23)
-[![C#](https://img.shields.io/badge/C%23-black.svg?style=flat&logo=c-sharp&logoColor=%23239120)](https://github.com/hafizewp22?tab=repositories&language=c%23)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap)](https://github.com/hafizewp22?tab=bootstrap)
+[![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)](https://github.com/hafizewp22?tab=repositories&language=css)
+- Web Development (Front End):
+[![PHP](https://img.shields.io/badge/PHP-0F172A?&logo=PHP)](https://github.com/hafizewp22?tab=repositories&language=php)
+[![Laravel](https://img.shields.io/badge/Laravel-0F172A?&logo=Laravel)](https://github.com/hafizewp22?tab=repositories&language=blade)
 - Database:
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)](https://github.com/hafizewp22?tab=repositories)
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=CC2927)](https://github.com/hafizewp22?tab=repositories)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/hafizewp22?tab=repositories)
 - Design & User Experience:
-[![Adobe](https://img.shields.io/badge/Adobe-black.svg?style=flat&logo=adobe&logoColor=%23FF0000)](https://github.com/hafizewp22?tab=repositories)
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black.svg?style=flat&logo=adobeillustrator&logoColor=%23FF9A00)](https://github.com/hafizewp22?tab=repositories)
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-black?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)](https://github.com/hafizewp22?tab=repositories)
+[![Figma](https://img.shields.io/badge/Figma-black.svg?style=flat&logo=figma&logoColor=%23FF0000)](https://github.com/hafizewp22?tab=repositories)
 - Other Languages:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/hafizewp22?tab=repositories&language=jupyter-notebook)
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=%23ED8B00)](https://github.com/hafizewp22?tab=repositories)
+[![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=java&logoColor=%23ED8B00)](https://github.com/hafizewp22?tab=go)
+[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=%23ED8B00)](https://github.com/hafizewp22?tab=java)
 [![C++](https://img.shields.io/badge/-C%2b%2b-black?style=flat&logo=C%2b%2b&logoColor=%2300599C)](https://github.com/hafizewp22?tab=repositories)
+[![C](https://img.shields.io/badge/C-black.svg?style=flat&logo=c&logoColor=%23239120)](https://github.com/hafizewp22?tab=repositories&language=c)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/hafizewp22?tab=repositories&language=jupyter-notebook)
 <br /><br />
 ## 🏆 My GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizewp22&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/hafizewp22?tab=repositories)
@@ -53,11 +55,8 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 </a>&nbsp;&nbsp;
 </p>
 <br />
-<br />
-<br />
-[![May 2022](https://img.shields.io/github/last-commit/hafizewp22/hafizewp22?label=profile%20updated&style=flat-square)](https://github.com/hafizewp22)
 
 ##
-&#169; Ken Tandrian 2023.
+&#169; Hafiz E Wedo Putra 2023.
 
 
