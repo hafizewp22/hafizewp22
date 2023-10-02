@@ -15,16 +15,16 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/hafizewp22?tab=repositories&language=javascript)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=Bootstrap)](https://github.com/hafizewp22?tab=bootstrap)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)](https://github.com/hafizewp22?tab=repositories&language=css)
-- Web Development (Front End):
+- Web Development (Back End):
 [![PHP](https://img.shields.io/badge/PHP-0F172A?&logo=PHP)](https://github.com/hafizewp22?tab=repositories&language=php)
 [![Laravel](https://img.shields.io/badge/Laravel-0F172A?&logo=Laravel)](https://github.com/hafizewp22?tab=repositories&language=blade)
+[![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=go)](https://github.com/hafizewp22?tab=go)
 - Database:
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=MySQL&logoColor=CC2927)](https://github.com/hafizewp22?tab=repositories)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)](https://github.com/hafizewp22?tab=repositories)
 - Design & User Experience:
 [![Figma](https://img.shields.io/badge/Figma-black.svg?style=flat&logo=figma&logoColor=%23FF0000)](https://github.com/hafizewp22?tab=repositories)
 - Other Languages:
-[![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=go)](https://github.com/hafizewp22?tab=go)
 [![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)](https://github.com/hafizewp22?tab=java)
 [![C++](https://img.shields.io/badge/-C%2b%2b-black?style=flat&logo=C%2b%2b&logoColor=%2300599C)](https://github.com/hafizewp22?tab=repositories)
 [![C](https://img.shields.io/badge/C-black.svg?style=flat&logo=c&logoColor=%23239120)](https://github.com/hafizewp22?tab=repositories&language=c)
