@@ -1,8 +1,8 @@
-<h2> Hi, Hafiz E Wedo Putra!</h2> 
+## Hi, Hafiz E Wedo Putra
 
 Student of the Department of Computer Science at Bina Nusantara University with competence in Streaming Database Technology. Interested in technology, and organization. I am also a hard worker, have integrity, responsibility, and work in a team. Really like to learn coding like Web Developer, Mobile Programming, Database and Data Analysis. 
 
-## ⚡Technologies
+## Technologies
 - Operating System: 
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6)]()
 [![Mac](https://img.shields.io/badge/MacOS-black?style=flat&logo=windows&logoColor=0078D6)]()
@@ -30,7 +30,9 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 [![C](https://img.shields.io/badge/C-black.svg?style=flat&logo=c&logoColor=%23239120)](https://github.com/hafizewp22?tab=repositories&language=c)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/hafizewp22?tab=repositories&language=jupyter-notebook)
 <br /><br />
-## My GitHub Stats 
+## My GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizewp22&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/hafizewp22?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizewp22&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/hafizewp22?tab=repositories)
 <br /><br />
 ## Let's Connect!
 <p align='center'>
