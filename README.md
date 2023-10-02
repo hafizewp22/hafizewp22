@@ -30,8 +30,7 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 [![C](https://img.shields.io/badge/C-black.svg?style=flat&logo=c&logoColor=%23239120)](https://github.com/hafizewp22?tab=repositories&language=c)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/hafizewp22?tab=repositories&language=jupyter-notebook)
 <br /><br />
-## 🏆 My GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizewp22&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/hafizewp22?tab=repositories)
+## My GitHub Stats 
 <br /><br />
 ## Let's Connect!
 <p align='center'>
