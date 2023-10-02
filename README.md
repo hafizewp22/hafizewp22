@@ -7,9 +7,9 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 [![Windows](https://img.shields.io/badge/Windows-black?style=flat&logo=windows&logoColor=0078D6)]()
 - Web Development:
 [![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=%23E34F26)](https://github.com/hafizewp22?tab=repositories&language=html)
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=%231572B6)](https://github.com/hafizewp22?tab=repositories&language=css)
+[![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=%231572B6)](https://github.com/hafizewp22?tab=repositories&language=css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/hafizewp22?tab=repositories&language=javascript)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/hafizewp22?tab=repositories&language=javascript)
+[![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/hafizewp22?tab=repositories&language=javascript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/hafizewp22?tab=repositories&language=javascript)
 [![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=%237F5AB6)](https://github.com/hafizewp22?tab=repositories)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)](https://github.com/hafizewp22?tab=repositories&language=javascript)
@@ -29,7 +29,6 @@ Student of the Department of Computer Science at Bina Nusantara University with 
 [![C++](https://img.shields.io/badge/-C%2b%2b-black?style=flat&logo=C%2b%2b&logoColor=%2300599C)](https://github.com/hafizewp22?tab=repositories)
 <br /><br />
 ## 🏆 My GitHub Stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizewp22&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=tokyonight)](https://github.com/hafizewp22?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafizewp22&theme=tokyonight&layout=compact&langs_count=10&card_width=360)](https://github.com/hafizewp22?tab=repositories)
 <br /><br />
 ## Let's Connect!
